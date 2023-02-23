@@ -21,15 +21,15 @@ Product.init(
       allowNull: false
     },
     price: {
-      type: DataTypes.Decimal,
+      type: DataTypes.DECIMAL(10,2),
       allowNull: false,
     },
     stock: {
-      type: Datatypes.Integer,
+      type: DataTypes.INTEGER,
       defaultNode : 10
     },
     category_id:{
-      type: Datatype.Integer,
+      type: DataTypes.INTEGER,
     }
   },
   {
