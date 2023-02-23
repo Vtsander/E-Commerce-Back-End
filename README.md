@@ -1,7 +1,7 @@
 # ECommerce Back End
 
 ## Description
- - 
+ - A working backend for an E-Commerce site.
 ## License 
  - MIT License
 ## Tech Used
